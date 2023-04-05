@@ -24,7 +24,9 @@ int main(){
 
 To build the example run:
 ```
-cmake .
+mkdir build
+cd build
+cmake ..
 make
 ./spinner
 ```
