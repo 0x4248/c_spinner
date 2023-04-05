@@ -1,6 +1,6 @@
 # C Spinner
 
-A simple spinner for C.
+A simple spinner that runs in a thread for C programs.
 
 ## Usage
 
