@@ -2,7 +2,7 @@
 
 A simple spinner that runs in a thread for C programs.
 
-## Usage
+## ❓ Usage
 
 Here is an example of how to use the spinner.
 
@@ -20,7 +20,7 @@ int main(){
 }
 ```
 
-## Example
+## 📝 Example
 
 To build the example run:
 ```
