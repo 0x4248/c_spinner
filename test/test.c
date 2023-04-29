@@ -1,10 +1,10 @@
-#include <threads.h>
 #include <stdio.h>
+#include <threads.h>
 #include <unistd.h>
 
 #include "spinner.h"
 
-int main(){
+int main() {
     thrd_t spinner_thread;
     thrd_create(&spinner_thread, spinner, "Example Spinner");
     sleep(1);
