@@ -1,3 +1,10 @@
+/* C_Spinner
+ * A simple spinner that runs in a thread for C programs.
+ * GitHub: https://www.github.com/awesomelewis2007/c_spinner
+ * Licence: GNU General Public License v3.0
+ * By: Lewis Evans
+ */
+
 #include <stdio.h>
 #include <threads.h>
 #include <unistd.h>
