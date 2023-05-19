@@ -36,3 +36,6 @@ or run the alternative makefile with:
 make -f make.mk
 ./spinner
 ```
+## 
+
+This project is lincenced under GPL-3.0. See [LICENSE](LICENSE) for more information.
