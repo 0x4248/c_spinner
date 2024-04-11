@@ -3,9 +3,9 @@
     "description": "A simple spinner that runs in a thread for C programs.",
     "version": "1.0",
     "main_file": "include/spinner.h",
-    "author": "Lewis Evans",
+    "author": "0x4248",
     "license": "GNU General Public License v3.0",
-    "url": "https://www.github.com/lewisevans2007/c_spinner",
+    "url": "https://www.github.com/0x4248/c_spinner",
     "email": "none",
     "languages": [
         "c",
